@@ -10,7 +10,7 @@ _38 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://klouder1.github.io/Frontend-demo/
+Site published at: https://estanionis.github.io/Frontend-demo/
 
 Design: None
 
@@ -21,4 +21,4 @@ Design: None
 
 ## Authors
 
-Stanionis: [Github](https://github.com/klouder1)
+estanionis: [Github](https://github.com/estanionis)
